@@ -1,0 +1,17 @@
+data    ==>    sql
+
+admin   ==>    后台代码
+		
+		images    图片文件
+		scripts   js脚本文件
+		styles    样式脚本
+
+
+images   ==>    前台图片
+scripts  ==>    前台js脚本
+styles   ==>    前台样式
+
+lib      ==>    封装核心函数
+plugins  ==>    插件
+core     ==>    核心操作文件（前后读取数据文件）
+configs  ==>    配置
